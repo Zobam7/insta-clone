@@ -113,7 +113,7 @@ function Header() {
               <svg
                 onClick={() => setOpen(true)}
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-6 w-6 md:inline-flex cursor-pointer hover:scale-125 transition-all duration-150 ease-out"
+                className="h-10 w-10 md:h-6 md:w-6 md:inline-flex cursor-pointer hover:scale-125 transition-all duration-150 ease-out"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
